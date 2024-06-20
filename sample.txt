@@ -1,1 +1,2 @@
-Hi myself is karthick, I'm a Full Stack Developer with skills in web development
+Hi myself is karthick, I'm a Full Stack Developer with skills in web development including PHP, React js, Express js, MySQL and Git hub.
+ 
